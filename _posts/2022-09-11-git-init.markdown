@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Git init?"
+date:   2022-09-11 22:54:00 +0300
+categories: git jekyll swift
+---
+It is time to have some place for my posts.
+{% highlight swift %}
+let it_is_time = true
+{% endhighlight %}
+
+Hopefully, there'll be some content I'll want to post about.
