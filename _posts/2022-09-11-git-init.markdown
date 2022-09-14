@@ -2,7 +2,7 @@
 layout: post
 title:  "Git init?"
 date:   2022-09-11 22:54:00 +0300
-categories: git jekyll swift
+tags: git jekyll swift
 ---
 It is time to have some place for my posts.
 {% highlight swift %}
